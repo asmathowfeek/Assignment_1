@@ -1,0 +1,84 @@
+
+
+.background-img_01{
+    background-image:linear-gradient(rgba(1, 8, 1, 0.582),rgba(51, 207, 12, 0)), url('../images/img1.jpg');
+    background-size: cover;
+   
+  }
+
+  .background-img_02{
+    background-image:linear-gradient(rgba(228, 250, 228, 0),rgba(223, 231, 221, 0)), url('../images/img33.jpg');
+    background-size: cover;
+   
+  }
+
+
+
+.heading_02{
+  font-family: 'Merienda', cursive;
+  font-size:45px;
+  color: var(--white);
+  text-align: center;
+}  
+
+
+
+.para{
+  font-size: 20px; 
+  color:var(--white);
+  text-align: justify;
+}
+
+
+.bg_c_tea{
+      
+      border-radius: 200px;
+      padding : 40px 60px 60px 60px;
+      box-shadow: -5px -5px 12px var(--gray_1),
+     1px 1px 3px var(--gray_2);
+}
+
+
+.bg_g_tea{
+     
+      padding: 10px 10px 10px 10px;
+      box-shadow: -5px -5px 12px var(--gray_1),
+      3px 3px 7px var(--gray_2);
+}
+  
+
+.full-image{
+      width:100%;
+    }
+
+    
+.login_bar{
+      text-align:center;
+      padding-bottom:150px;
+    }
+    
+
+.login_btn{
+      transition: 0.5s;
+      color:var(--white);
+      background:#0c58028a;
+      font-size: 20px;
+      font-weight:bold;
+      text-align:center;
+      padding: 20px 40px 20px 40px;
+      text-decoration: none;
+      border-radius: 10px;
+    }
+    
+
+.login_btn:hover{
+      transition: 0.5s;
+      color:var(--white);
+      background:var(--gray_2);
+      border: 3px var(--gray_2);
+    }
+    
+
+    
+
+   

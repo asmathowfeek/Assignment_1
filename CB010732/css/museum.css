@@ -1,0 +1,60 @@
+.background-img_01{
+    background-image:linear-gradient(rgba(103, 26, 235, 0),rgba(100, 243, 18, 0)),url('../images/img11.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+  }
+
+  .background-img_02{
+    background-image:linear-gradient(rgba(226, 227, 231, 0.075),rgb(240, 240, 241)),url('../images/img34.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+  }
+
+
+.responsive{
+  padding: 60px 20px 20px 20px;
+  width: 100%;
+  height: auto;
+ 
+}
+
+.heading_tea{
+  font-family: 'Merienda', cursive;
+    font-size:45px;
+    color: black;
+    text-align: center;
+  }
+
+ 
+
+.sec2{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: justify;
+    color:black;
+    padding: 50px 50px 100px 50px ;
+    
+   
+    
+}
+  
+  /* map */
+  .gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:100%;
+  }
+  
+  .mapouter{
+    position:relative;
+    text-align:right;
+    height:500px;
+    width:100%;
+  }
+
+  
